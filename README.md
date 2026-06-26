@@ -4,7 +4,7 @@ A fully responsive multi-section homepage built mobile-first using HTML5, CSS3 (
 
 ## Live Demo
 
-> [Add your GitHub Pages link here]
+> https://tayaba925.github.io/responsive-layout/
 
 ## Sections
 
